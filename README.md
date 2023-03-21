@@ -1,16 +1,17 @@
-# quantumitapp
-
-A new Flutter project.
+# Quantum IT News App
+A flutter Developer Task for Interview.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is submssion of the Quantom IT Solution Flutter Developer Interview.
 
-A few resources to get you started if this is your first Flutter project:
+In this application i made a authentication pages with the use of the Firebase.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Libraries which I used are mentioned below,
+  1. Firebase - core
+  2. Firebase Auth
+  3. Google Signin
+  4. http - for calling api to get news
+  
+In this application I made a class of the news having diffrent field.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
