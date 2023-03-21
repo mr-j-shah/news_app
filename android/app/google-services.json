@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "899282397272",
+    "project_id": "quantumapp-6ed88",
+    "storage_bucket": "quantumapp-6ed88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899282397272:android:d4c0970c72d806ab57c22d",
+        "android_client_info": {
+          "package_name": "com.example.quantumitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899282397272-qc36isqqli7qsg1745cppbqv9mjjd58q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quantumitapp",
+            "certificate_hash": "728cecde858dc3f80a58d54acd5c8773cb472081"
+          }
+        },
+        {
+          "client_id": "899282397272-9p9ommblrovpcgcu5eonpfpggqpeuvji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhCLivFudOC0yR6UvM4l0YkUPhGd-uWxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899282397272-9p9ommblrovpcgcu5eonpfpggqpeuvji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
